@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/empty"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="No File"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:visibility="invisible"
+        android:layout_centerInParent="true"/>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recyclterview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+
+
+<!--
+    //....... xml of banner ad
+
+    <LinearLayout
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/layad"
+        android:padding="3dp"
+        android:layout_marginBottom="5dp"
+        android:layout_marginLeft="1dp"
+        android:layout_marginRight="1dp"
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:orientation="vertical" >
+
+        <com.mopub.mobileads.MoPubView
+            android:id="@+id/adview"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_gravity="center_horizontal"
+            app:moPubAdSize="height_50"
+            android:orientation="vertical"/>
+
+    </LinearLayout>-->
+
+</RelativeLayout>

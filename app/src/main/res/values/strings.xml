@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">smartfilemanager</string>
+
+    <string name="Open_Drawer">OpenNavigationDrawer</string>
+    <string name="Close_Drawer">CloseNavigationDrawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    //.......... mopub test ad ids
+    <string name="mop_ub_banner" translatable="false">b195f8dd8ded45fe847ad89ed1d016da</string>
+    <string name="mop_ub_interstitial" translatable="false">24534e1901884e398f1253216226017e</string>
+    <string name="mop_ub_native" translatable="false">11a17b188668469fb0412708c3d16813</string>
+
+    //..........Max ad ids
+    <string name="max_banner" translatable="false">d489c657b31e43e6</string>
+    <string name="max_interstitial" translatable="false">2ca42671acae7d51</string>
+    <string name="max_native" translatable="false">85537f42b53b0b0b</string>
+
+
+</resources>

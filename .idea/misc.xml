@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Projects/AndroidStudioProjects/app/src/main/res/layout/activity_add.xml" value="0.20416666666666666" />
+        <entry key="..\:/Projects/AndroidStudioProjects/app/src/main/res/layout/activity_home.xml" value="0.20416666666666666" />
+        <entry key="..\:/Projects/AndroidStudioProjects/app/src/main/res/layout/activity_image.xml" value="0.20416666666666666" />
+        <entry key="..\:/Projects/AndroidStudioProjects/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Projects/AndroidStudioProjects/app/src/main/res/layout/applovin_native_layout.xml" value="0.14444444444444443" />
+        <entry key="..\:/Projects/AndroidStudioProjects/app/src/main/res/layout/card_fragment.xml" value="0.14814814814814814" />
+        <entry key="..\:/Projects/AndroidStudioProjects/app/src/main/res/layout/catogrized_fragment.xml" value="0.20416666666666666" />
+        <entry key="..\:/Projects/AndroidStudioProjects/app/src/main/res/layout/document_layout.xml" value="0.14814814814814814" />
+        <entry key="..\:/Projects/AndroidStudioProjects/app/src/main/res/layout/file_container.xml" value="0.20416666666666666" />
+        <entry key="..\:/Projects/AndroidStudioProjects/app/src/main/res/layout/fragment_first.xml" value="0.14814814814814814" />
+        <entry key="..\:/Projects/AndroidStudioProjects/app/src/main/res/layout/fragment_show_file.xml" value="0.20416666666666666" />
+        <entry key="..\:/Projects/AndroidStudioProjects/app/src/main/res/layout/fragment_show_image.xml" value="0.14814814814814814" />
+        <entry key="..\:/Projects/AndroidStudioProjects/app/src/main/res/layout/fragment_video_view.xml" value="0.20416666666666666" />
+        <entry key="..\:/Projects/AndroidStudioProjects/app/src/main/res/layout/home_fragment.xml" value="0.20416666666666666" />
+        <entry key="..\:/Projects/AndroidStudioProjects/app/src/main/res/layout/image_container.xml" value="0.20416666666666666" />
+        <entry key="..\:/Projects/AndroidStudioProjects/app/src/main/res/layout/internal_fragment.xml" value="0.14814814814814814" />
+        <entry key="..\:/Projects/AndroidStudioProjects/app/src/main/res/layout/mopubnative.xml" value="0.20416666666666666" />
+        <entry key="..\:/Projects/AndroidStudioProjects/app/src/main/res/layout/musiccontainer.xml" value="0.20416666666666666" />
+        <entry key="..\:/Projects/AndroidStudioProjects/app/src/main/res/layout/video_item.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="openjdk-17" project-jdk-type="JavaSDK" />
+</project>

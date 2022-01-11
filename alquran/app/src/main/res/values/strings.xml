@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">alquran</string>
+    <string name="mathgame">MathGame</string>
+    <string name="mp3_offline_quran">Mp3 offline Quran</string>
+</resources>

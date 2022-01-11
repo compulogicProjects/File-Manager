@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.drawerlayout.widget.DrawerLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:id="@+id/drawerlayout"
+    android:fitsSystemWindows="true"
+    tools:openDrawer="start"
+    android:layout_height="match_parent"
+    tools:context="com.smart.android.file.manager.tool.HomeActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <androidx.appcompat.widget.Toolbar
+            android:elevation="4dp"
+            android:id="@+id/toolbar"
+            android:theme="@style/ToolbarColoredBackArrow"
+            android:background="@color/colorPrimary"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize">
+
+        </androidx.appcompat.widget.Toolbar>
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:layout_marginBottom="10dp"
+            android:id="@+id/fragment_contaner">
+
+        </FrameLayout>
+
+        <com.applovin.mediation.ads.MaxAdView xmlns:maxads="http://schemas.applovin.com/android/1.0"
+            android:id="@+id/bannerId"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            maxads:adUnitId="d489c657b31e43e6"></com.applovin.mediation.ads.MaxAdView>
+
+    </LinearLayout>
+
+    <com.google.android.material.navigation.NavigationView
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:id="@+id/nav_view"
+        app:itemIconTint="@color/colorPrimary"
+        android:layout_gravity="start"
+        app:headerLayout="@layout/nav_header"
+        app:menu="@menu/nav_menu"
+        />
+
+
+</androidx.drawerlayout.widget.DrawerLayout>

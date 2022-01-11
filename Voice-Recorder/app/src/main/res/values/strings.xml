@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">easyvoicenoterecorder</string>
+    <string name="start">Start</string>
+
+    //.......... mopub test ad ids
+    <string name="mop_ub_banner" translatable="false">89f41f9127c3490c8cf416962191d845</string>
+    <string name="mop_ub_interstitial" translatable="false">f1dc94aaea6243808cfef59fce0474e9</string>
+    <string name="mop_ub_native" translatable="false">9c3fff80cd3541b0a21fdc07738178c5</string>
+</resources>

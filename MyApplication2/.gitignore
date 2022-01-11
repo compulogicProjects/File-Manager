@@ -1,0 +1,8 @@
+package com.example.easy.voice.note.recorder;
+
+import android.content.Context;
+import android.content.DialogInterface;
+import android.net.Uri;
+import android.os.Environment;
+import android.view.LayoutInflater;
+import a
